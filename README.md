@@ -1,4 +1,4 @@
-## YLD Code Challenge - Italo Moraes
+## Code Challenge
 
 Lazy expression evaluation solution.
 
